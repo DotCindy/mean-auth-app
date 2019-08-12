@@ -1,24 +1,5 @@
-# MEANauthapp
+## MEAN Auth App
 
-Complete MEAN stack application with authentication using json web tokens
+Authentication application using MongoDB, Express.js, Angular2, Node.js.
 
-### Version
-1.0.0
-
-## Usage
-
-
-### Installation
-
-Install the dependencies
-
-```sh
-$ npm install
-```
-Run app
-
-```sh
-$ npm start
-```
-
-### Screenshots in Wiki: https://github.com/tomcatbuzz/meanauthapp/wiki
+Database is currently not active.
